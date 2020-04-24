@@ -11,7 +11,7 @@ Good luck.
 
 ----------
 
-Session 2 Assignment: To complete this assignment you need to upload your workflow to your repository. The name of the file must be: \<githu username\>-session\<session number\>
+Session 2 Assignment: To complete this assignment you need to upload your workflow to your repository. The name of the file must be: \<github username\>-session\<session number\>
 
 Task 1: Create a workflow group named "DS-with-KNIME" under LOCAL mountpoint and put a folder named "data" inside workflow group. Then download the provided files in "data" folder of this repository and put them in the "data" folder under "DS-with-KNIME" in your KNIME workspace. Also create another workflow group named "session2" in "DS-with-KNIME" and create your workflow in this workflow group. You have to create new workflow groups for each session and name them this way (session\<session number\>).
 
