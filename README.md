@@ -55,6 +55,6 @@ Task 7: Design the Component layout in a way that the scatter plot, the bar char
 
 Task 8: Add a workflow annotation inside the component and answer these questions:
 
-1- In what age sapns do we have the min and the max hours-per-week?
+1- In what age spans do we have the min and the max hours-per-week?
 2- What is the average age of the people with "Never-married" and "Widowed" marital-status?
 3- Do you see anything strange in the histogram ("hours-per-week" per age groups)? How do you explain it?
