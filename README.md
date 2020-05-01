@@ -45,7 +45,7 @@ Task 2: A table view which publishes selection events but does not subscribe to 
 
 Task 3: A table view which subscribe to selection events but does not publish selection events. Also, this table view only shows selected rows.
 
-Task 4: A scatter plot which shows "age" agains  "hours-per-week" for 1000 rows only.
+Task 4: A scatter plot which shows "age" against  "hours-per-week" for 1000 rows only.
 
 Task 5: A bar chart which shows average "age" per "marital-status".
 
