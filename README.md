@@ -37,7 +37,7 @@ Task 3: Write files to LOCAL>DS-with-KNIME>data:
 
 ----------
 
-Session 3 Assignment: To complete this assignment you need to upload a Component which takes "adult" data set as input and produces a view as descriped in each task:
+Session 3 Assignment: To complete this assignment you need to upload a Component which takes "adult" data set as input and produces a view as descriped in assignment tasks:
 
 Task 1: Assigns colors to rows based on "marital-status".
 
