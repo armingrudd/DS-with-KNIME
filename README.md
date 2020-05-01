@@ -34,3 +34,27 @@ Task 3: Write files to LOCAL>DS-with-KNIME>data:
 3- The output of task2-3 as CSV with column headers and the same name as the input file.
 
 4- The ouput of task2-4 as CSV with column headers and the same name as the input file. After completing this task, the row count of the output file must be the same as the row count of the input file (cars-85.xlsx).
+
+----------
+
+Session 3 Assignment: To complete this assignment you need to upload a Component which takes "adult" data set as input and produces a view as descriped in each task:
+
+Task 1: Assigns colors to rows based on "marital-status".
+
+Task 2: A table view which publishes selection events but does not subscribe to selection events.
+
+Task 3: A table view which subscribe to selection events but does not publish selection events. Also, this table view only shows selected rows.
+
+Task 4: A scatter plot which shows "age" agains  "hours-per-week" for 1000 rows only.
+
+Task 5: A bar chart which shows average "age" per "marital-status"
+
+Task 6: A histogram which shows average "hours-per-week" per age groups. There should be 10 age groups. The label of each group must represent the borders.
+
+Task 7: Design the Component layout in a way that the scatter plot, the bar chart and the histogram appear in the same row. Max height for table views should be 400 px.
+
+Task 8: Add a workflow annotation inside the component and answer these questions:
+
+1- In what age sapns do we have the min and the max hours-per-week?
+2- What is the average age of the people with "Never-married" and "Widowed" marital-status?
+3- Do you see anything strange in the histogram ("hours-per-week" per age groups)? How do you explain it?
