@@ -47,7 +47,7 @@ Task 3: A table view which subscribe to selection events but does not publish se
 
 Task 4: A scatter plot which shows "age" agains  "hours-per-week" for 1000 rows only.
 
-Task 5: A bar chart which shows average "age" per "marital-status"
+Task 5: A bar chart which shows average "age" per "marital-status".
 
 Task 6: A histogram which shows average "hours-per-week" per age groups. There should be 10 age groups. The label of each group must represent the borders.
 
