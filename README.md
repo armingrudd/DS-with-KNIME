@@ -60,3 +60,7 @@ Task 8: Add a workflow annotation inside the component and answer these question
 2- What is the average age of the people with "Never-married" and "Widowed" marital-status?
 
 3- Do you see anything strange in the histogram ("hours-per-week" per age groups)? How do you explain it?
+
+----------
+
+Session 4 Assignment: To complete this assignment, you have to upload a workflow which reads "CallsData.xls" and "ContractData.csv" files and outputs the "session4-output.table" file.
