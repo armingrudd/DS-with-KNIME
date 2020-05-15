@@ -64,3 +64,13 @@ Task 8: Add a workflow annotation inside the component and answer these question
 ----------
 
 Session 4 Assignment: To complete this assignment, you have to upload a workflow which reads "CallsData.xls" and "ContractData.csv" files and outputs the "session4-output.table" file.
+
+----------
+
+Session 5 Assignment: Upload a workflow and do the following tasks:
+
+1- Read "cars-85".
+
+2- Add the digit form of the number of doors (nr_doors) in front of the car's brand name (make) where the first 2 and the last character of the brand name are uppercased. E.g. MAzdA(4), VOlkswageN(2)
+
+3- If the fuel price is 2$ per liter for gasoline and 2.5$ for diesel: for each car, calculate the distance (in kilometers) a person can drive in average (city and highway) if he/she can spend money equal to the car's price. Hint: 235/mpg=Lp100km
