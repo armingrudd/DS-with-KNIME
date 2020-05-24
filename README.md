@@ -77,4 +77,4 @@ Session 5 Assignment: Upload a workflow and do the following tasks:
 
 -----------
 
-Session 6 Assignment: Upload a workflow which reads session6-assignment.table and outputs adult.csv. You may use education-num.table in your workflow.
+Session 6 Assignment: Upload a workflow which reads session6-assignment.table and outputs adult.csv (must be exactly the same in terms of cell values, row/column order, column names, column types, ...). You may use education-num.table in your workflow.
