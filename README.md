@@ -78,3 +78,13 @@ Session 5 Assignment: Upload a workflow and do the following tasks:
 -----------
 
 Session 6 Assignment: Upload a workflow which reads session6-assignment.table and outputs adult.csv (must be exactly the same in terms of cell values, row/column order, column names, column types, ...). You may use education-num.table in your workflow.
+
+----------
+
+Session 7 Assignment: Using the first 3000 rows of the "CallsData.xls" and "ContractData.csv":
+
+1- Build a classification model which predicts customer churn. Apply any preprocessing if needed.
+
+2- Cluster customers based on customer service calls and charges (day, eve, night, intl). Apply any preprocessing if needed.
+
+3- Using the clustering model from task 2, assign clusters to the remaining 333 customers.
