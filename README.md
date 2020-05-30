@@ -81,7 +81,7 @@ Session 6 Assignment: Upload a workflow which reads session6-assignment.table an
 
 ----------
 
-Session 7 Assignment: Using the first 3000 rows of the "CallsData.xls" and "ContractData.csv":
+Session 7 Assignment: Using the first 3000 rows of "CallsData.xls" and "ContractData.csv":
 
 1- Build a classification model which predicts customer churn. Apply any preprocessing if needed.
 
