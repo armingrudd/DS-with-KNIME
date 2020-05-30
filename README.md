@@ -81,10 +81,8 @@ Session 6 Assignment: Upload a workflow which reads session6-assignment.table an
 
 ----------
 
-Session 7 Assignment: Using the first 3000 rows of "CallsData.xls" and "ContractData.csv":
+Session 7 Assignment: Using the first 3000 rows of "CallsData.xls" and "ContractData.csv" files, upload 2 models as <github username\>-session\<session number\>_class and <github username\>-session\<session number\>_clus:
 
 1- Build a classification model which predicts customer churn. Apply any preprocessing if needed.
 
 2- Cluster customers based on customer service calls and charges (day, eve, night, intl). Apply any preprocessing if needed.
-
-3- Using the clustering model from task 2, assign clusters to the remaining 333 customers.
