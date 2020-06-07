@@ -88,3 +88,7 @@ Session 7 Assignment: Using the first 3000 rows of "CallsData.xls" and "Contract
 2- Cluster customers based on customer service calls and charges (day, eve, night, intl). Apply any preprocessing if needed.
 
 3- Using the clustering model in task 2, assign clusters to the remaining 333 customers.
+
+----------
+
+Session 8 Assignment: By using the "Market-Basket.table" data set, build and upload a workflow which recommends 2 products based on this basket: [onions, tomato, egg]. Design a scoring system to select the most beneficial rules.
