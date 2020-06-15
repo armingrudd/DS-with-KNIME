@@ -95,7 +95,7 @@ Session 8 Assignment: By using the "Market-Basket.table" data set, build and upl
 
 ----------
 
-Session 9 Assignment: By using World Bank APIs and the "session9.sqlite" file upload a workflow:
+Session 9 Assignment: By using World Bank APIs and the "session9.sqlite" file:
 
 Task 1: Get ID, name and region of all countries (exclude aggregates).
 
