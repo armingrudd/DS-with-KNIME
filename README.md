@@ -109,4 +109,4 @@ Task 4: Using the tables in the database: (Use in-database processing)
 
 2- Filter countries where region is "Middle East & North Africa" and total population is >50 M.
 
-Task 5: Read the output of Task 4 and for each country calculate % of region population.
+Task 5: Read outputs of Task 4 and for each country calculate % of region population.
