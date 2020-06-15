@@ -101,7 +101,7 @@ Task 1: Get ID, name and region of all countries (exclude aggregates).
 
 Task 2: Get total, urban and rural population of all countries in 2018 (exclude aggregates).
 
-Task 3: Create 2 table in sqlite database (session9.sqlite): one for general info (ID, name and region) and one for population info. Use an integer value as the key to link tables. Hint: The population info table must have 4 columns; 3 columns for population info and the 4th column should be an integer key that specifies the corresponding country in general info table.
+Task 3: Create 2 tables in sqlite database (session9.sqlite): one for general info (ID, name and region) and one for population info. Use an integer value as the key to link tables. Hint: The population info table must have 4 columns; 3 columns for population info and the 4th column should be an integer key that specifies the corresponding country in general info table.
 
 Task 4: Using the tables in the database: (Use in-database processing)
 
