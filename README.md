@@ -92,3 +92,23 @@ Session 7 Assignment: Using the first 3000 rows of "CallsData.xls" and "Contract
 ----------
 
 Session 8 Assignment: By using the "Market-Basket.table" data set, build and upload a workflow which recommends 2 products based on this basket: [onions, tomato, egg]. Design a scoring system to select the most beneficial rules.
+
+----------
+
+Session 9 Assignment: By using World Bank APIs and the "session9.sqlite" file upload a workflow:
+
+Task 1: Get ID, name and region of all countries (exclude aggregates).
+
+Task 2: Get total, urban and rural population of all countries in 2018 (exclude aggregates).
+
+Task 3: Create 2 table in sqlite database (session9.sqlite): one for general info (ID, name and region) and one for population info. Use an integer value as the key to link tables. 
+
+Hint: The population info table must have 4 columns; 3 columns for population info and the 4th column should be an integer key that specifies the corresponding country in general info table.
+
+Task 4: Using the tables in the database: (Use in-databese processing)
+
+1- Aggregate values and calculate sum of total population for each region.
+
+2- Filter countries where region is "Middle East & North Africa" and total population is >50 M.
+
+Task 5: Read the output of Task 4 and for each country calculate % of region population.
