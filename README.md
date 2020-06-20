@@ -110,3 +110,7 @@ Task 4: Using the tables in the database: (Use in-database processing)
 2- Filter countries where region is "Middle East & North Africa" and total population is >50 M.
 
 Task 5: Read outputs of Task 4 and for each country calculate % of region population.
+
+----------
+
+Session 9 Assignment: Upload a component which reads "adjust_sample_data.csv" (adjust_sample_data.rar) and does the tasks defined in "BDA_Challenge1.pdf" (task 2 is optional). Numbers (days) must be configurable in the configuration window of the component.
