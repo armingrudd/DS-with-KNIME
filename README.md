@@ -113,4 +113,4 @@ Task 5: Read outputs of Task 4 and for each country calculate % of region popula
 
 ----------
 
-Session 9 Assignment: Upload a component which reads "adjust_sample_data.csv" (adjust_sample_data.rar) and does the tasks defined in "BDA_Challenge1.pdf" (task 2 is optional). Numbers (days) must be configurable in the configuration window of the component.
+Session 10 Assignment: Upload a component which reads "adjust_sample_data.csv" (adjust_sample_data.rar) and does the tasks defined in "BDA_Challenge1.pdf" (task 2 is optional). Numbers (days) must be configurable in the configuration window of the component.
