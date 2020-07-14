@@ -114,3 +114,17 @@ Task 5: Read outputs of Task 4 and for each country calculate % of region popula
 ----------
 
 Session 10 Assignment: Upload a component which reads "adjust_sample_data.csv" (adjust_sample_data.rar) and does the tasks defined in "BDA_Challenge1.pdf" (task 2 is optional). Numbers (days) must be configurable in the configuration window of the component.
+
+----------
+
+Session 11 Assignment: Using "adult" data set, build a workflow which:
+
+Task 1: For all string columns except "education", converts the first letter to lowercase and the rest of the string to uppercase.
+
+Task 2: Creates clusters based on "age", "hours-per-week" and "income". Find the optimum K using silhouette coefficient.
+
+Task 3: Writes the output to an XLSX file but divides it into separate sheets based on "education" value and removes both "education" and "education-num" columns. Sheet names should be the same as the education value.
+
+----------
+
+Session 12 Assignment: Using the XLSX file created in session 11 assignment, build a workflow which reads all sheets. While reading sheets you should train a decision tree model to predict the cluster label if the education is "Bachelors", "Masters", "Prof-school" or "Doctorate" and a naive bayes model if the education is anything else. Write each model as a separate file and name it after the education vlaue.
