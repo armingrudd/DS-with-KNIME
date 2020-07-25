@@ -128,3 +128,23 @@ Task 3: Writes the output to an XLSX file but divides it into separate sheets ba
 ----------
 
 Session 12 Assignment: Using the XLSX file created in session 11 assignment, build a workflow which reads all sheets. While reading sheets you should train a decision tree model to predict the cluster label if the education is "Bachelors", "Masters", "Prof-school" or "Doctorate" and a naive bayes model if the education is anything else. Write each model as a separate file and name it after the education vlaue.
+
+----------
+
+Session 13 Assignment 1: A friend of mine needs help to buy a cell phone. Based on information available at "mobile.ir" and without using Selenium nodes, create a workflow which:
+
+Task 1: Provides a view containing a list of brands (first 60 is enough). Hink: https://mobile.ir/brands/index.aspx
+
+Task2: Provides a view containing a list of cell phones including the price and year attributes. Must view available cell phones only. The user should be able to filter and select cell phones based on price and year attributes using range sliders.
+
+Task 3: Provides a view containing tag clouds based on trigrams of first 100 user comments for each selected cell phone.
+
+----------
+
+Session 13 Assignment 2: Based on information available at "gsmarena.com" and by using Selenium nodes, create a workflow in which:
+
+Task 1: A user inputs some keyword to search for cell phones.
+
+Task 2: Your app searches the website and provides the results to the user.
+
+Task 3: User selects a cell phone and views specifications.
