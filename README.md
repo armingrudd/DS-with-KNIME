@@ -133,7 +133,7 @@ Session 12 Assignment: Using the XLSX file created in session 11 assignment, bui
 
 Session 13 Assignment 1: A friend of mine needs help to buy a cell phone. Based on information available at "mobile.ir" and without using Selenium nodes, create a workflow which:
 
-Task 1: Provides a view containing a list of brands (first 60 is enough). Hink: https://mobile.ir/brands/index.aspx
+Task 1: Provides a view containing a list of brands (first 60 is enough). Hint: https://mobile.ir/brands/index.aspx
 
 Task2: Provides a view containing a list of cell phones including the price and year attributes. Must view available cell phones only. The user should be able to filter and select cell phones based on price and year attributes using range sliders.
 
