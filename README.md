@@ -148,3 +148,7 @@ Task 1: A user inputs some keyword to search for cell phones.
 Task 2: Your app searches the website and provides the results to the user.
 
 Task 3: User selects a cell phone and views specifications.
+
+----------
+
+Session 14 Assignment: Build your CV based on your Linkedin profile by following the instructions provided at https://blog.statinfer.com/building-a-cv-builder-with-birt-in-knime-part-1/ and upload both your workflow and CV (PDF).
